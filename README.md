@@ -15,15 +15,17 @@
 <!-- Estatísticas -->
 
 <p align="center">
+  <!-- Card de Estatísticas Gerais -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=m15dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=m15dev&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" height="150"/>
+  
+  <!-- Card da Streak -->
+  <img src="https://streak-stats.demolab.com/?user=m15dev&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" height="150"/>
 </p>
 
-<!-- Adicionar Depois - Nao tem codigo feito
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m15dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff" />
-  </p> -->
-
+<p align="center">
+  <!-- Card das Linguagens mais usadas -->
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=m15dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff" alt="Linguagens mais usadas por m15dev" />
+</p>
 ---
 
 <!-- Contatos Adicionar Depois
